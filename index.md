@@ -17,6 +17,11 @@ Unser Name lautet jetzt **R.H.Y.T.H.M**
 ### Gesang
 
 ### Theater
+Als Geschichte haben wir uns für ein Crossover von:
+- Disney (Hades + Pech&Schwefel) als Intro
+- Sister Act + Good Omens als Haupt- und Tanzszene
+- Outro (noch so halb offen)
+entschieden
 
 # Termine
 <iframe src="https://calendar.google.com/calendar/embed?src=48lj1qf5s29m6v94h8ketp4qck%40group.calendar.google.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
