@@ -32,26 +32,27 @@ Unser Name lautet jetzt **R.H.Y.T.H.M** (Ramen, Handlung, Yucca Palme, Tanz, Ham
 ### Theater
 Als Geschichte haben wir uns für ein Crossover von(für weitere Ideen klicken):
 - Disney (Hades + Pech&Schwefel) als Intro
-  * <details>
+   <details>
       <summary>Ideen</summary>
-        * *Song: GospelTruth = Pech und Schwefel klassisches Anime Intro, das von genervtem Hades unterbrochen wird, Einführung in die Figur und Welt von Hades durch das Lied*
-        * *evtl Tänzer im Hintergrund?*
-        * *Hades will bei Good Omens Welt zerstörungsplan mitmischen-> schickt Pech und Schwefel zum vertauschen der Babys*
-        * *Hier erklärung des eigentlichen Plans*
+  
+        * Song: GospelTruth = Pech und Schwefel klassisches Anime Intro, das von genervtem Hades unterbrochen wird, Einführung in die Figur und Welt von Hades durch das Lied*
+        * evtl Tänzer im Hintergrund?*
+        * Hades will bei Good Omens Welt zerstörungsplan mitmischen-> schickt Pech und Schwefel zum vertauschen der Babys*
+        * Hier erklärung des eigentlichen Plans*
    </details>
 
 - Sister Act + Good Omens als Haupt- und Tanzszene
-  * <details>
+   <details>
       <summary> Ideen</summary>
-        * *Song: I will follow him = Crowley bringt Kind, Pech und Schwefel vertauschen, Nonnen beten Bild von Hades an*
+        * Song: I will follow him = Crowley bringt Kind, Pech und Schwefel vertauschen, Nonnen beten Bild von Hades an*
     </details>
 
 - Outro (noch so halb offen)
-  * <details>
-      <summary> Ideen </summary>
-        * *Szene wie Crowley und Aziraphael Zerstörung der Welt verhindern wollen*
-        * *Song: ? Abschlusstanz/gesang mit allen*
-    </details>
+   <details>
+    <summary> Ideen </summary>
+        * Szene wie Crowley und Aziraphael Zerstörung der Welt verhindern wollen*
+        * Song: ? Abschlusstanz/gesang mit allen*
+</details>
 
 entschieden
 
