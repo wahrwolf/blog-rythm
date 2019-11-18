@@ -11,34 +11,37 @@ Wie ihr merkt sind das alles Sonntage. Wir werden die Hauptproben also zwei Mal 
 <details>
   <summary>Klick für Infos!</summary>
   
-### Probeort: </br>
-  Wu Dao Kung-Fu Schule Hamburg </br>
-  Horner Weg 282 </br>
+### Probeort: 
+  Wu Dao Kung-Fu Schule Hamburg 
+  Horner Weg 282 
   Hamburg (*an der Horner Rennbahn*)
 
-### Probezeiten(Ausnahmen stehen in Ankündigung!): </br>
-2x im Monat </br>
+### Probezeiten(Ausnahmen stehen in Ankündigung!): 
+2x im Monat 
 Sonntag 12:00 - 18:00 Uhr
+
+### Material
+Songs findet ihr [hier](./songs.md)
 
 ### Mitgliedsbeitrag: 
 2€ pro Probe
 
-### Bereichsverteilung:</br>
-Vincent = Organisation, Raum, Termine </br>
-Joana = Kostüme, Requisiten </br>
-Jacky = Choreo </br>
-Steffi/Kio = Gesang, Schauspiel, Story </br>
+### Bereichsverteilung:
+Vincent = Organisation, Raum, Termine 
+Joana = Kostüme, Requisiten 
+Jacky = Choreo 
+Steffi/Kio = Gesang, Schauspiel, Story 
 
-### Aufgaben: </br>
-Green = Gruppenkasse </br>
-Melis und Celes = Social Media </br>
+### Aufgaben: 
+Green = Gruppenkasse 
+Melis und Celes = Social Media 
 
-### Inactive Members: </br>
-Melis </br>
-Kathrin </br>
-Janin - Februar </br>
-Celes </br>
-Stephanie Sch. - August </br>
+### Inactive Members: 
+Melis 
+Kathrin 
+Janin - Februar 
+Celes 
+Stephanie Sch. - August 
 
 </details>
 

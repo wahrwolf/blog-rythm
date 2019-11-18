@@ -1,3 +1,7 @@
+# Songs
+
+## Jedes Wort ist wahr!
+### Story
 Umdichtung auf Basis von der Mythologie, dass Zeus Hades und Poseidon 
 Die Titanen besiegt haben und die Welt danach unter sich 
 Aufgeteilt haben. Dabei hat Hades das Los gezogen die Unterwelt zu erhalten,
@@ -7,8 +11,7 @@ Ich hab versucht den meisten Text einfach zu übernehmen
 
 Gesungen von den drei Hexen, die sich ein Auge teilen
 
-
-
+### Lyrics
 Nur zu, Mädchen!
 Wir sind die Hexen
 Göttinnen der dunklen Künste
