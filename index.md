@@ -5,15 +5,34 @@ Am 1.12 fängt die Probe erst um 16:00 an und da wollen wir stark am Stück selb
 
 Am 15.12 wäre es super wenn da alle kommen, dort planen wir richtig mit dem Stück zu beginnen. Also je nachdem wie weit wir am 1.12 kommen auch schon Sachen wie Rollenbesprechung. 
 
-Wie ihr merkt sind das alles Sonntage. Wir werden die Hauptproben also zwei Mal Sonntag im Monat haben, und für größere Rollen und gesangssolis können in der Woche extra Termine gemacht werden. Oder wenn auch generell jemand an etwas vermehrt arbeiten möchte.
+Wie ihr merkt sind das alles Sonntage. Wir werden die Hauptproben also zwei Mal Sonntag im Monat haben, und für größere Rollen und Gesangssolis können in der Woche extra Termine gemacht werden. Oder wenn auch generell jemand an etwas vermehrt arbeiten möchte.
 
 # Allgemeine Informationen
 <details>
   <summary>Klick für Infos!</summary>
-Probeort: Wu Dao Kung-Fu Schule Hamburg, Horner Weg 282, Hamburg (*an der Horner Rennbahn*)
+  
+### Probeort: </br>
+  Wu Dao Kung-Fu Schule Hamburg </br>
+  Horner Weg 282 </br>
+  Hamburg (*an der Horner Rennbahn*)
 
-Probezeiten(Ausnahmen stehen in Ankündigung!): Sonntag 12:00 - 18:00 Uhr
- 
+### Probezeiten(Ausnahmen stehen in Ankündigung!): </br>
+2x im Monat </br>
+Sonntag 12:00 - 18:00 Uhr
+
+### Mitgliedsbeitrag: 
+2€ pro Probe
+
+### Bereichsverteilung:</br>
+Vincent = Organisation, Raum, Termine </br>
+Joana = Kostüme, Requisiten </br>
+Jacky = Choreo </br>
+Steffi/Kio = Gesang, Schauspiel, Story </br>
+
+### Aufgaben: </br>
+Green = Gruppenkasse </br>
+Melis und Celes = Social Media </br>
+
 </details>
 
 # Zusammenfassung der Termine
