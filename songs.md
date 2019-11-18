@@ -12,6 +12,7 @@ Ich hab versucht den meisten Text einfach zu übernehmen
 Gesungen von den drei Hexen, die sich ein Auge teilen
 
 ### Lyrics
+```
 Nur zu, Mädchen!
 Wir sind die Hexen
 Göttinnen der dunklen Künste
@@ -48,3 +49,4 @@ So lebt er hier statt im Olymp
 Sein Zorn ist klar
 Und wer noch nicht überzeugt ist
 Jedes Wort ist wahr
+```
