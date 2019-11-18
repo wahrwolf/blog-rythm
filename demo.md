@@ -1,4 +1,4 @@
 # Video Demo
 <video controls>
-  <source src=http://techslides.com/demos/sample-videos/small.mp4 type=video/mp4>
+  <source src=./small.mp4 type=video/mp4>
  </video>
