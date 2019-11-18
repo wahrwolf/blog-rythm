@@ -33,6 +33,13 @@ Steffi/Kio = Gesang, Schauspiel, Story </br>
 Green = Gruppenkasse </br>
 Melis und Celes = Social Media </br>
 
+### Inactive Members: </br>
+Melis </br>
+Kathrin </br>
+Janin - Februar </br>
+Celes </br>
+Stephanie Sch. - August </br>
+
 </details>
 
 # Zusammenfassung der Termine
