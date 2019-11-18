@@ -7,6 +7,11 @@ Am 15.12 wäre es super wenn da alle kommen, dort planen wir richtig mit dem St�
 
 Wie ihr merkt sind das alles Sonntage. Wir werden die Hauptproben also zwei Mal Sonntag im Monat haben, und für größere Rollen und gesangssolis können in der Woche extra Termine gemacht werden. Oder wenn auch generell jemand an etwas vermehrt arbeiten möchte.
 
+# Allgemeine Informationen
+Probeort: Wu Dao Kung-Fu Schule Hamburg, Horner Weg 282, Hamburg (*an der Horner Rennbahn*)
+
+Probezeiten(Ausnahmen stehen in Ankündigung!): Sonntag 12:00 - 18:00 Uhr
+
 # Zusammenfassung der Termine
 ## 1. Termin (17.11)
 ### Orga
