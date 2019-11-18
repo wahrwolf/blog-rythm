@@ -1,5 +1,6 @@
 # Ankündigungen!
 Diesen Sonntag (24.11) geht die Probe von 15-21 Uhr
+
 Am 1.12 fängt die Probe erst um 16:00 an und da wollen wir stark am Stück selber arbeiten, also kann es auch sein, dass wir da nicht die ganzen 6 Stunden machen.
 
 Am 15.12 wäre es super wenn da alle kommen, dort planen wir richtig mit dem Stück zu beginnen. Also je nachdem wie weit wir am 1.12 kommen auch schon Sachen wie Rollenbesprechung. 
