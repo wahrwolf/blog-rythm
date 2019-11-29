@@ -1,6 +1,4 @@
 # Ankündigungen!
-Diesen Sonntag (24.11) geht die Probe von 15-21 Uhr
-
 Am 1.12 fängt die Probe erst um 16:00 an und da wollen wir stark am Stück selber arbeiten, also kann es auch sein, dass wir da nicht die ganzen 6 Stunden machen.
 
 Am 15.12 wäre es super wenn da alle kommen, dort planen wir richtig mit dem Stück zu beginnen. Also je nachdem wie weit wir am 1.12 kommen auch schon Sachen wie Rollenbesprechung. 
@@ -31,7 +29,7 @@ Vincent = Organisation, Raum, Termine
 Joana = Kostüme, Requisiten 
 Jacky = Choreo 
 Steffi/Kio = Gesang, Schauspiel, Story 
-
+ 
 ### Aufgaben: 
 Green = Gruppenkasse 
 Melis und Celes = Social Media 
@@ -46,9 +44,15 @@ Stephanie Sch. - August
 </details>
 
 # Zusammenfassung der Termine
-## 1. Termin (17.11)
+
+<details>
+  <summary>
+    1. Termin (17.11.19)
+  </summary>
+  
 ### Orga
 Wir haben ein wenig über Termine, Namen und den Plot gesprochen.
+</br>
 Unser Name lautet jetzt **R.H.Y.T.H.M** (Ramen, Handlung, Yucca Palme, Tanz, Hamburg, Musik)
 
 
@@ -58,7 +62,60 @@ Unser Name lautet jetzt **R.H.Y.T.H.M** (Ramen, Handlung, Yucca Palme, Tanz, Ham
 ### Gesang
 Übung
 
-### Theater
+###  Theater
+
+</details>
+
+## 2. Termin (24.11.19) 
+
+Wir haben viel Gesungen, auch einzeln und When I grow up Mehrstimmig  
+Außerdem eine kleine Choreo eingeübt  
+Taxi gespielt
+
+### Geschichte Besprochen
+
+#### Ablauf
+
+Szene 1:  
+Pech + Schwefel Vorstellen </br>
+Hades unterbricht </br>
+Bittet die Moiren ihn vor zu stellen  
+- Song: Gospel Truth I
+- Song: Gospel Truth II-> Hades unterbricht, Tote fliehen "Flamme an!"
+
+Vertausch erklären: Kinder anzeigen
+
+Szene 2:  
+Crowley fährt mit Auto auf die Bühne  
+Crowley Monolog -> holt Kind aus dem Auto  
+von der Bühne mit Ending Song  
+
+Szene 3:  
+Kloster  
+Nonnen Mit Rücken zu Publikum vor Altar  
+- Song: I will follow him (langsamer part)
+Reveal: sie beten Hades an  
+Cut zwischen Langsamem und schnellen Teil -> Auftritt Crowley mit Antichrist
+- Song: I will follow him (schneller part)
+Kinder vertauschen
+
+letzte Szene:  
+Hades feiert mit Crowley und Kumpanen
+- Song: ? (Party)
+
+
+#### Ideen
+* Thron in Unterwelt => Dahinter Leute/Personen für Flammen
+* Übergang: 
+  * Pech und Schwefel ziehen Bild der nächsten Szene
+  * Auto (reflektierende Folie) kommt näher, währenddessen Bohemian Rhapsody wird lauter, Crowley steigt aus, Tür zu -> BR gedämpft
+  * Am Ende Auftirtt Crowley und Aziraphael mit hint, dass das Ende doch nicht kommt
+  * Moiren: halbe Maske anstatt komplettes Gesichts make up
+  
+
+
+# Geschichte
+
 Als Geschichte haben wir uns für ein Crossover von(für weitere Ideen klicken):
 - Disney (Hades + Pech&Schwefel) als Intro
    <details>
