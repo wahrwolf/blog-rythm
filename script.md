@@ -1,4 +1,5 @@
 # Szene 1
+```
 *Pech und Schwefel stehen auf der Bühne, Licht aus, Team Rocket Musik*
 	Pech:
 		Gestattet uns uns vorzustellen
@@ -37,3 +38,4 @@
 
 
 *Abgang Pech und Schwefel mit Baby*
+```
