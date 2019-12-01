@@ -66,4 +66,13 @@
 
 ## Abschluss 
 Hades feiert den ersten erfolgreichen Plan!
-- Song: ? (Party)
+- Hades hält  Dankes/Lob-Rede und ruft zur Party auf
+- Mehrere Side Gags
+   - Pech+Schwefel Limbo
+   - Apfelbeißen
+   - Lufballons/Luftschlange
+   - idk
+- Karaoke/Singstar läuft im Hintergrund
+   - Mikrofon vorne
+   - verschiedene Gruppen "singen" nacheinander
+   - dann einzeln verbeugen bei bridge/dancebreak
