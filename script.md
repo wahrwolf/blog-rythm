@@ -20,7 +20,8 @@
 	Schwefel:
 		Schwefel!
 	Pech+Schwefel: 
-		Gemeinsam sind wir Hades treue Helfer, so schnell wie der Schatten! Gebt lieber auf und bekämpft uns nicht- *zögern*
+		Gemeinsam sind wir Hades treue Helfer, so schnell wie der Schatten! 
+		Gebt lieber auf und bekämpft uns nicht- *zögern*
 	Hades:
 		IHR RATTEN!
 	Pech: 
@@ -50,8 +51,12 @@
 		Lebensbesiegeln.
 	Lachesis:
 		Und Besinger von Helden
-		weiterführender Text: [Lyrics](./songs.md)
-		
+		weiterführender Text: 
+```
+
+		[Lyrics](./songs.md)
+
+```
 	*Gospel Truth II*
 		Sein war die Unterwelt
 		Doch alles Tote war ihm zu fad
