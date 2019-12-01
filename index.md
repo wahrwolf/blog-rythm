@@ -66,7 +66,10 @@ Unser Name lautet jetzt **R.H.Y.T.H.M** (Ramen, Handlung, Yucca Palme, Tanz, Ham
 
 </details>
 
-## 2. Termin (24.11.19) 
+<details>
+  <summary>
+    2. Termin (24.11.19) 
+  </summary>
 
 Wir haben viel Gesungen, auch einzeln und When I grow up Mehrstimmig  
 Außerdem eine kleine Choreo eingeübt  
@@ -112,6 +115,8 @@ Hades feiert mit Crowley und Kumpanen
   * Am Ende Auftirtt Crowley und Aziraphael mit hint, dass das Ende doch nicht kommt
   * Moiren: halbe Maske anstatt komplettes Gesichts make up
   
+</details>
+
 ## 3. Termin (1.12.19) 
 ### Abstimmung zwischen "altes" und "neues"
 #### Pro "altes"
@@ -143,6 +148,10 @@ Hades feiert mit Crowley und Kumpanen
 - fans werden uns hassen (but do we care?)
 
 # Geschichte
+
+[Ablauf](./ablauf.md)
+
+[Skript](./script.md)
 
 Als Geschichte haben wir uns für ein Crossover von(für weitere Ideen klicken):
 - Disney (Hades + Pech&Schwefel) als Intro
