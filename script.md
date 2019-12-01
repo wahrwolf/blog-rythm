@@ -60,7 +60,7 @@
 		Er hatte so was Böses vor
 		Und jedes Wort ist wahr 
 	Hades:
-		Wundervoll, einfach wundervoll Widersacher, Zerstörer von Königreichen, Engel der Dunkelheit, Herr dieser Welt, Vater aller Lügen und Fürst der Finsternis.meine Damen.
+		Wundervoll, einfach wundervoll meine Damen.
 		Kommen wir zum Geschäftlichen.
 		Pech! Schwefel
 	Pech + Schwefel:
@@ -74,7 +74,7 @@
 		Huh... Einmal mit Profis.
 		Also noch einmal ganz von vorne.
 	Hades:
-		Der Tag ist nun wirklich gekommenf. Die Moiren haben mir
+		Der Tag ist nun wirklich gekommen. Die Moiren haben mir
 		mitgeteilt, dass die Apokalypse bevorsteht! Das Ende der Welt,
 		Tot allen Lebens!
 		Und warum wollen wir das verhindern?
@@ -136,14 +136,12 @@
 		... Genau. Hundert Punkte.
 		
 	
-	
-	
-	
-		
-		
-		
+	Schwefel:
 		und was macht Herkules?
+	Hades:
 		Es gibt keinen Herkules
+	Pech:
+		10, 9, 8...
 
 
 
