@@ -1,4 +1,5 @@
 # Szene 1
+## Charaktere: Pech Schwefel, Hades, Klotho (lange blaue), Lachesis (grün mittlere), Atropos(die Dicke Rote)
 ```
 *Pech und Schwefel stehen auf der Bühne, Licht aus, Team Rocket Musik*
 	Pech:
@@ -33,7 +34,92 @@
 		und nichts weiter macht als die Toten zu Tode zu langweilen?
 	Pech: 
 		Ganz schön schwach, Chef... *duckt sich*
-
+	Hades:
+		Ok, nicht Aufregen... Mein Therapeut hat gesagt, ich soll 
+		von 10 herunterzählen. 10, 9, 8...
+		Wenn dann sollte ICH vorgestellt werden!
+	Klotho:
+		Das übernehmen wir, Schätzchen.
+	Lachesis:
+		Wir wissen genau, was jetzt kommt/was die Zukunft bringt
+	*Cue: Gospel Truth I*
+	Atropos: 
+		Den wir sind die Moiren.
+	Klotho:
+		Schicksalsgöttinnen, die das Ende jedes 
+		Lebensbesiegeln.
+	Lachesis:
+		Und Besinger von Helden
+		weiterführender Text: [Lyrics](./songs.md)
+		
+	*Gospel Truth II*
+		Sein war die Unterwelt
+		Doch alles Tote war ihm zu fad
+		So hemmungslos, gemein war keiner
+		Und jedes Wort ist wahr
+		Er hatte so was Böses vor
+		Und jedes Wort ist wahr 
+	Hades:
+		Wundervoll, einfach wundervoll meine Damen.
+		Kommen wir zum Geschäftlichen.
+		Pech! Schwefel
+	Pech + Schwefel:
+		Ja Chef?
+	Hades:
+		Ihr kennt den Plan?
+	Schwefel:
+		Also... ja.... und... dann befreit Herkules die Titanen...?
+	Hades:
+		10, 9, 8, ...
+		Huh... Einmal mit Profis.
+		Also noch einmal ganz von vorne.
+	Hades:
+		Der Tag ist nun wirklich gekommenf. Die Moiren haben mir
+		mitgeteilt, dass die Apokalypse bevorsteht! Das Ende der Welt,
+		Tot allen Lebens!
+		Und warum wollen wir das verhindern?
+	Schwefel:
+		Yay Tot!... Warte.. verhindern?
+	Pech:
+		Zu viel arbeit?
+	Hades:
+		Genau! Wenn sie die Menschen da oben alle töten, an wem bleibt
+		dann die ganze Arbeit die Seelen zu verstauen? An MIR!		
+		Dann ist aber richtig Flut hier im Meer der Toten.
+	Pech: 
+		Das reinste Surferparadies.
+		Und was machen wir dagegen? Kurtaxe einführen? Den Nahverkehr 
+		ausbauen?
+	Schwefel:
+		Endlich Strandkörbe-
+	Hades:
+		Der Plan! Hier kommte der Plan ins Spiel!
+		Die Dämonen bringen heute den Anti-Christ,
+	Pech
+		Widersacher, Zerstörer von Königreichen, Engel der Dunkelheit, 
+		Herr dieser Welt, Vater aller Lügen und Fürst der Finsternis
+	Hades:
+		10, 9 , 8 ...
+		Ja genau den! Der trifft heute auf der Erden ein.
+		Dort soll er zwischen den Menschen aufwachsen und die Erde ins Chaos stürzen!
+	Schwefel:
+		Und wie sollen wir das verhindern?
+	Hades: 
+		Gut, dass du mich AUSREDEN LÄSST!
+	Pech:
+		10, 9, 8,
+	Hades:
+		Ganz einfach! Wir tauschen den Antichrist
+		rsacher, Zerstörer von Königreichen, Engel der Dunkelheit, 
+		Herr dieser Welt, Vater aller Lügen und Fürst der Finsternis mit Bob
+	
+	
+	
+		
+		
+		
+		und was macht Herkules?
+		Es gibt keinen Herkules
 
 
 
