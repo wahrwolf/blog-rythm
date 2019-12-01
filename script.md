@@ -29,9 +29,10 @@
 	Schwefel: 
 		Wir stellen uns dem Publikum vor?
 	Hades: 
-		Ihr wolllt mir also erzählen, dass ihr hier SEIT STUNDEN rum steht und nichts weiter macht als die Toten zu Tode zu langweilen?
+		Ihr wolllt mir also erzählen, dass ihr hier SEIT STUNDEN rum steht
+		und nichts weiter macht als die Toten zu Tode zu langweilen?
 	Pech: 
-	Ganz schön schwach, Chef... *duckt sich*
+		Ganz schön schwach, Chef... *duckt sich*
 
 
 
