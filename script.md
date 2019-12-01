@@ -1,5 +1,8 @@
 # Szene 1
 ## Charaktere: Pech Schwefel, Hades, Klotho (lange blaue), Lachesis (grün mittlere), Atropos(die Dicke Rote)
+
+[Lyrics Gospel Truth](./songs.md)
+
 ```
 *Pech und Schwefel stehen auf der Bühne, Licht aus, Team Rocket Musik*
 	Pech:
@@ -51,12 +54,8 @@
 		Lebensbesiegeln.
 	Lachesis:
 		Und Besinger von Helden
-		weiterführender Text: 
-```
+		weiterführender Text:  siehe oben "Lyrics Gospel Truth"
 
-		[Lyrics](./songs.md)
-
-```
 	*Gospel Truth II*
 		Sein war die Unterwelt
 		Doch alles Tote war ihm zu fad
