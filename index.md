@@ -98,7 +98,7 @@ Reveal: sie beten Hades an
 Cut zwischen Langsamem und schnellen Teil -> Auftritt Crowley mit Antichrist
 - Song: I will follow him (schneller part)
 Kinder vertauschen
-
+disney karaoke playlist
 letzte Szene:  
 Hades feiert mit Crowley und Kumpanen
 - Song: ? (Party)
@@ -112,7 +112,35 @@ Hades feiert mit Crowley und Kumpanen
   * Am Ende Auftirtt Crowley und Aziraphael mit hint, dass das Ende doch nicht kommt
   * Moiren: halbe Maske anstatt komplettes Gesichts make up
   
+## 3. Termin (1.12.19) 
+### Abstimmung zwischen "altes" und "neues"
+#### Pro "altes"
+- näher am original
+- hades reveal in der kloster szene
+- es gibt nur "gut" und "böse"
+- pech+schwefel sind unfähig
 
+#### Contra "altes"
+- wo kommt das 3te kind her
+   - sowohl in der geschichte
+   - als auch während des tanzes
+- pech+schwefel haben kaum screentime
+- 2 mütter
+- wir brauchen noch gay angel/demon "quickie"
+
+
+#### Pro neues
+- hades beweggründe für steffi erscihtlich
+- pech+schwefel kriegen was richtig hin
+- 3tes baby gut erklärt
+- kein aziraphael
+- eigene idee
+
+#### Contra "neues"
+- crowley hat weniger screentime
+- kein aziraphael
+- pech+schwefel kriegen was richtig hin
+- fans werden uns hassen (but do we care?)
 
 # Geschichte
 
@@ -149,6 +177,8 @@ Als Geschichte haben wir uns für ein Crossover von(für weitere Ideen klicken):
 </details>
 
 entschieden
+
+
 
 # Termine
 <iframe src="https://calendar.google.com/calendar/embed?src=48lj1qf5s29m6v94h8ketp4qck%40group.calendar.google.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
