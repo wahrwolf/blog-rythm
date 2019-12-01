@@ -4,8 +4,8 @@
 - Pech & Schwefel
 - Crowley
 - Nonnen (viele/alle)
-- Azi-Rafael
-- 2 Schwangere
+- Aziraphael
+- 1x Mutter
 
 # Requisiten
 - 1x Antichrist (Baby)
@@ -25,10 +25,12 @@
    - Song: Gospel Truth I ([umgeschrieben](./songs.md))
    - Song: Gospel Truth II-> Hades unterbricht, Tote fliehen "Flamme an!"
 - Hades erklärt den Vertausch:
-   - Wir bringen den Antichrist auf die Welt und vertauschen ihn mit dem B
+   - wenn alle sterben (apokalypse) dann muss sich hades um viel mehr tote kümmern
+   - das will er nicht, deswegen hat er einen Plan entworfen um die Apokalypse zu verhindern
+   - Wir verhindern den Tausch von dem Antichrist und dem Präsidenten-Baby
    - Antichrist mit rotem Strampler
    - Präsidenten-Baby mit weißem Strampler
-   - Foreshadowing (und was ist wenn es ein drittes Baby gibt? - blauer strampler)
+   - "unser" Baby mit blauem Strampler
    - Gameshow Host (hinter der Roten Tür...)
 - Szenen Ende: Hades schickt Pech + Schwefel los
 
@@ -38,23 +40,30 @@
    - Crowley ist wichtig (er DARF den Antichristen bringen)
    - Crowley ist genervt
    - Crowley will nicht, dass die Welt zuende geht
-- holt Antichrist aus dem Auto und zeigt ihn  
+- holt Antichrist aus dem Auto und zeigt ihn
+
+- slapstick szene "pech + schwefel schwanger"
+   - du musst mehr klingen wie Frau in Wehen
+   - lol/Impro
+   
+- Präsidentenbaby wird vorgestellt
+   - Mutter + Nonne (Ipad?)
+
 - von der Bühne mit "Good Omens" Outro
 
-### Idee
-- Pech + Schwefel ziehen sich auf der Bühne um
-- Crowley führt den Monolog während er Auto fährt
-- Schwangere Frauen laufen im Hintergrund vorbei
 
 ## Szene 3:
-- Nonnen kommen als Prozedur mit Kerzen rein und knien sich vor Altar
+- Nonnen und Pech+Schwefel kommen als Prozedur mit Kerzen rein und knien sich vor Altar
    - Song: I will follow him (langsamer part)
-- Pech/Schwefel hängen Bild von Hades auf
 - Cut zwischen Langsamem und schnellen Teil
-- Auftritt Crowley mit Antichrist und kurzer Dialog mit den Nonnen
+- Auftritt Crowley mit Antichrist von rechts
+- Auftritt Präsidentenbaby von Links
 - Song: I will follow him (schneller part)
-Kinder vertauschen
+- Pech+Schwefel halten ihr Baby hoch
+- Kinder vertauschen
+- Lied zu Ende
+
 
 ## Abschluss 
-Hades feiert mit Crowley und Kumpanen
+Hades feiert den ersten erfolgreichen Plan!
 - Song: ? (Party)
