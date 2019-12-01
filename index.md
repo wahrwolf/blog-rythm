@@ -1,7 +1,14 @@
 # Ankündigungen!
-Am 1.12 fängt die Probe erst um 16:00 an und da wollen wir stark am Stück selber arbeiten, also kann es auch sein, dass wir da nicht die ganzen 6 Stunden machen.
 
-Am 15.12 wäre es super wenn da alle kommen, dort planen wir richtig mit dem Stück zu beginnen. Also je nachdem wie weit wir am 1.12 kommen auch schon Sachen wie Rollenbesprechung. 
+Am 15.12 müssen alle, die interesse an einer der folgenden Rollen haben, anwesend sein. Wir werden die Rollen verteilen.
+
+### Rollen
+  
+- Hades
+- Pech
+- Schwefel
+- 3x Moiren
+- Crowley
 
 Wie ihr merkt sind das alles Sonntage. Wir werden die Hauptproben also zwei Mal Sonntag im Monat haben, und für größere Rollen und Gesangssolis können in der Woche extra Termine gemacht werden. Oder wenn auch generell jemand an etwas vermehrt arbeiten möchte.
 
@@ -118,74 +125,16 @@ Hades feiert mit Crowley und Kumpanen
 </details>
 
 ## 3. Termin (1.12.19) 
-### Abstimmung zwischen "altes" und "neues"
-#### Pro "altes"
-- näher am original
-- hades reveal in der kloster szene
-- es gibt nur "gut" und "böse"
-- pech+schwefel sind unfähig
 
-#### Contra "altes"
-- wo kommt das 3te kind her
-   - sowohl in der geschichte
-   - als auch während des tanzes
-- pech+schwefel haben kaum screentime
-- 2 mütter
-- wir brauchen noch gay angel/demon "quickie"
-
-
-#### Pro neues
-- hades beweggründe für steffi erscihtlich
-- pech+schwefel kriegen was richtig hin
-- 3tes baby gut erklärt
-- kein aziraphael
-- eigene idee
-
-#### Contra "neues"
-- crowley hat weniger screentime
-- kein aziraphael
-- pech+schwefel kriegen was richtig hin
-- fans werden uns hassen (but do we care?)
+Ablauf der Geschichte Festgelegt  
+Pizza gegessen  
+Erste Szene geschrieben
 
 # Geschichte
 
 [Ablauf](./ablauf.md)
 
-[Skript](./script.md)
-
-Als Geschichte haben wir uns für ein Crossover von(für weitere Ideen klicken):
-- Disney (Hades + Pech&Schwefel) als Intro
-   <details>
-      <summary>Ideen</summary>
-  
-        - Song: GospelTruth 
-        * Pech und Schwefel klassisches Anime Intro, das von genervtem Hades unterbrochen wird, 
-        * Einführung in die Figur und Welt von Hades durch das Lied  
-        * evtl Tänzer im Hintergrund?  
-        * Hades will bei Good Omens Welt zerstörungsplan mitmischen-> schickt Pech und Schwefel zum vertauschen der Babys
-        * Hier erklärung des eigentlichen Plans
-        
-   </details>
-
-- Sister Act + Good Omens als Haupt- und Tanzszene
-   <details>
-      <summary> Ideen</summary>
-  
-        - Song: I will follow him 
-        * Crowley bringt Kind, Pech und Schwefel vertauschen
-        * Nonnen beten Bild von Hades an
-    </details>
-
-- Outro (noch so halb offen)
-   <details>
-  
-    <summary> Ideen </summary>
-    
-        * Szene wie Crowley und Aziraphael Zerstörung der Welt verhindern wollen
-        - Song: ? Abschlusstanz/gesang mit allen
-</details>
-
-entschieden
+[Skript](./script.md) (1. Szene)
 
 
 
