@@ -60,7 +60,7 @@
 		Er hatte so was Böses vor
 		Und jedes Wort ist wahr 
 	Hades:
-		Wundervoll, einfach wundervoll meine Damen.
+		Wundervoll, einfach wundervoll Widersacher, Zerstörer von Königreichen, Engel der Dunkelheit, Herr dieser Welt, Vater aller Lügen und Fürst der Finsternis.meine Damen.
 		Kommen wir zum Geschäftlichen.
 		Pech! Schwefel
 	Pech + Schwefel:
@@ -100,18 +100,42 @@
 		Herr dieser Welt, Vater aller Lügen und Fürst der Finsternis
 	Hades:
 		10, 9 , 8 ...
-		Ja genau den! Der trifft heute auf der Erden ein.
+		Ja genau den! Der kleine Hosenscheißer trifft heute auf der Erden ein.
 		Dort soll er zwischen den Menschen aufwachsen und die Erde ins Chaos stürzen!
+	* Auftrtt rotes Baby *
+		Dies passiert in dem sie dieses Baby mit dem Kind eines Senators austauschen.
+	* Auftritt grünes Baby*
 	Schwefel:
-		Und wie sollen wir das verhindern?
+		Und wie sollen wir das verhindern?	
 	Hades: 
 		Gut, dass du mich AUSREDEN LÄSST!
 	Pech:
 		10, 9, 8,
 	Hades:
 		Ganz einfach! Wir tauschen den Antichrist
-		rsacher, Zerstörer von Königreichen, Engel der Dunkelheit, 
-		Herr dieser Welt, Vater aller Lügen und Fürst der Finsternis mit Bob
+	Pech:
+		Wiedersacher, Zerstörer von Königreichen, Engel der Dunkelheit, 
+		Herr dieser Welt, Vater aller Lügen und Fürst der Finsternis.
+	Hades: 
+		Mit Bob aus.
+	Schwefel:
+		Wer ist Bob, Chef?
+	* Auftritt blaues Baby *
+	Hades:
+		Das ist Bob. Den hab ich gefunden. 
+		Und er wird  den Platz des Anti-Christen
+		* stoppt Pech bevor er den ganzen Namen aufsagt*
+		einnehmen.
+	* Im Hintergrund: optisch zeigen, was mit den Kindern passiert*
+		Das ist eure Aufgabe. Alles Verstanden?
+	Pech + Schwefel:
+		* Gestikulieren*
+	Pech:
+		Am Ende haben wir das rote Kind?
+	Hades:
+		... Genau. Hundert Punkte.
+		
+	
 	
 	
 	
