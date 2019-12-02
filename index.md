@@ -7,9 +7,10 @@ Am 15.12 müssen alle, die interesse an einer der folgenden Rollen haben, anwese
 - Hades (kein/kaum Tanz und Gesang)
 - Pech (viel Comedy)
 - Schwefel (viel Comedy)
-- 3x Moiren (Viel Gesang, machen zusätzlich Nonnen9
+- 3x Moiren (Viel Gesang, machen zusätzlich Nonnen)
 - Crowley (kein/kaum Tanz und Gesang)
-Wer diese Rollen übernimmt, muss an seinem Charakter arbeiten, wie z.B. die Gang und Sprechart. Außerdem muss man entweder den Film (Herkules Charaktere) oder die Serie (Crowley) passend für die Rolle sehen.   
+
+Wer diese Rollen übernimmt, muss an seinem Charakter arbeiten, wie z.B. die Gang- und Sprechart. Außerdem muss man entweder den Film (Herkules Charaktere) oder die Serie (Crowley) passend für die Rolle sehen.   
 Man kann sich auch für mehrere Rollen vorbereiten.
 
 Wie ihr merkt sind das alles Sonntage. Wir werden die Hauptproben also zwei Mal Sonntag im Monat haben, und für größere Rollen und Gesangssolis können in der Woche extra Termine gemacht werden. Oder wenn auch generell jemand an etwas vermehrt arbeiten möchte.
