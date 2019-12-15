@@ -5,12 +5,16 @@ Crowley, Pech, Schwefel, Mutter, Person(Security)
 
 Umbau mit Good Omens Outro
 ```
-* Crowleys Auto kommt auf die Bühne und fährt nach vorne. Währenddessen läuft Bohemian Rhapsody und wird lauter.*
-* Auto hält an, Crowley steigt aus, wenn die tür zu geht, wird das Lied nur noch leise, gedämpft abgespielt*
+* Crowleys Auto kommt auf die Bühne und fährt nach vorne. 
+Währenddessen läuft Bohemian Rhapsody und wird lauter.*
+* Auto hält an, Crowley steigt aus, wenn die tür zu geht, 
+wird das Lied nur noch leise, gedämpft abgespielt*
     Crowley:
-              Da sagt man einmal, man hätte den Brexit verursacht und schon finden die mich da unten so höllisch wundervoll.
-              Ach Crowley, nur du kannst es schaffen. Du darfst den Antichristen, Wiedersacher, Zerstörer von Königreichen, Engel der Dunkelheit, 
-		          Herr dieser Welt, Vater aller Lügen und Fürst der Finsternis überbringen. 
+              Da sagt man einmal, man hätte den Brexit verursacht 
+	      und schon finden die mich da unten so höllisch wundervoll.
+              Ach Crowley, nur du kannst es schaffen. Du darfst den 
+	      Antichristen, Wiedersacher, Zerstörer von Königreichen, Engel der Dunkelheit, 
+		Herr dieser Welt, Vater aller Lügen und Fürst der Finsternis überbringen. 
               Welch eine Freude... Zum Teufel... hö..
 * Öffnet Tür, Musik lauter.
 * Musik aus*
@@ -50,7 +54,8 @@ Umbau mit Good Omens Outro
     IMPRO
 * Ausgepowert*
     Pech:
-              Ok... Also irgendwie funktioniert das so rum nicht. Das müssen wir anders machen...
+              Ok... Also irgendwie funktioniert das so rum nicht. 
+	      Das müssen wir anders machen...
     Schwefel:
               Und wenn wir es einfach so mit nehmen? 
     Pech:
@@ -60,10 +65,12 @@ Umbau mit Good Omens Outro
 * Crowley holt Antichrist heraus*
 * Tür zu, Musik leise*
     Crowley:
-              Du abartig niedliches, flüssigkeits verlierendes, rosiges Ding/Packet/Fleischklops... 
+              Du abartig niedliches, flüssigkeits verlierendes, 
+	      rosiges Ding/Packet/Fleischklops... 
               Und du schwaches etwas sollst die ganze Welt in Chaos stürzen? 
               Warum eigentlich?
-              Die Welt ist doch gut so. Es gibt so schöne Dinge. Die Deutsche Bahn, DHL, Rundfunkgebühren. 
+              Die Welt ist doch gut so. Es gibt so schöne Dinge. 
+	      Die Deutsche Bahn, DHL, Rundfunkgebühren. 
               Wie willst du das überhaupt bewerckstelligen?
 * öffnet den Korb, riecht volle windel, versteht*
     Crowley:
