@@ -15,6 +15,9 @@
 - 1x Thron
 - 1x Auge (groß)
 
+# Umbau:
+ Immer Good Omens Rockig Intro mit Umbau-Choreo
+
 # Kostüme
 
 # Ablauf
