@@ -1,6 +1,6 @@
 # Ankündigungen!
 
-Am 15.12 müssen alle, die interesse an einer der folgenden Rollen haben, anwesend sein. Wir werden die Rollen verteilen.
+Am 5.1.20 müssen alle, die interesse an einer der folgenden Rollen haben, anwesend sein. Wir werden die Rollen verteilen.
 
 ### Rollen
   
@@ -138,6 +138,7 @@ Erste Szene geschrieben
 [Ablauf](./ablauf.md)
 
 [Skript](./script.md) (1. Szene)
+[Szene 2](./Szene 2.md)
 
 
 
