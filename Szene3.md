@@ -28,8 +28,6 @@ Nonnen, Crowley, Pech, Schwefel
 * Pech und Schwefel andere Ecke * 
     Schwefel:
                 Das ist er!
-    Pech:
-                Ja schon <3
     Pech + Schwefel:
                 * Fangirling* CROWLEY!
     Pech:
