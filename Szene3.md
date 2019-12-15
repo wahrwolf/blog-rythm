@@ -9,6 +9,38 @@ Nonnen, Crowley, Pech, Schwefel
 
 *Ende langsamer Teil*
 * Auftritt Crowley mit Antichrist * 
+* Eine Nonne geht von der Bühne * 
 ```
     Nonne:
-            Willkommen beim Orden der schnatternden
+                Willkommen bei dem schwatzhaften Orden der Heiligen Beryll
+    Crowley:
+                ne...
+    Nonne:
+                Ist er das?
+    Crowley:
+                Japp
+    Nonne:
+                Das hab ich nicht erwartet. Er sieht so... normal aus.
+                Nicht mal kleine Hufilein.
+                Wird er sich an mich erinnern?
+    Crowley:
+                Bete, dass er es nicht tut!
+* Pech und Schwefel andere Ecke * 
+    Schwefel:
+                Das ist er!
+    Pech:
+                Ja schon <3
+    Pech + Schwefel:
+                * Fangirling* CROWLEY!
+    Pech:
+                Konzentrier dich.
+    Schwefel:
+                Der Plan, der Plan, der Plan
+* Pech und SChwefel holen baby magisch aus Kutte *
+```
+* drittes Kind kommt auf Bühne * 
+* schneller Teil I will follow him*
+* Babys vertauschen *
+* Pech und Schwefel halten rotes Baby in der Hand*
+* Licht aus *
+                  
