@@ -36,8 +36,8 @@ Nonnen, Crowley, Pech, Schwefel
                 Der Plan, der Plan, der Plan
 * Pech und SChwefel holen baby magisch aus Kutte *
 ```
-* drittes Kind kommt auf Bühne * 
-* schneller Teil I will follow him*
+* das dritte Kind wird auf Bühne gebracht von Nonne * 
+* schneller Teil von I will follow him*
 * Babys vertauschen *
 * Pech und Schwefel halten rotes Baby in der Hand*
 * Licht aus *
