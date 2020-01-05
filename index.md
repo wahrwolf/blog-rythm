@@ -138,8 +138,8 @@ Erste Szene geschrieben
 [Ablauf](./ablauf.md)
 
 [Skript](./script.md) (1. Szene)
-[Szene 2](./Szene 2.md)
-
+[Szene 2](./Szene2.md)
+[Szene 3](./Szene3.md)
 
 
 # Termine
