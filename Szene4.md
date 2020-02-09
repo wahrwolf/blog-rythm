@@ -32,7 +32,7 @@ Athropos
             * Stille *
             Super Jungs!
             Und du schwaches etwas sollst die ganze Welt in Chaos stürzen?
-            Wie willst du das überhaupt bewerckstelligen?
+            Wie willst du das überhaupt bewerkstelligen?
             * riecht *
             Ok. Verstanden...
   Schwefel: 
@@ -76,11 +76,11 @@ Athropos
             Denn heute Abend haben wir....
             
  Klotho:
-            ... einen teuflischen Plan verhindert.
+            ... einen teuflischen Plan verhindert. Wissen wir.
  Hades:
             ... Ja. Durch eine List haben wir den
  Lachesis:
-            -  Antichristen mit Bob vertauscht.
+            -  Antichristen mit Bob vertauscht. Wissen wir.
  Hades:
             ... Ich weiß!. Auf jeden Fall ... haben wir dadurch die...
  Athropos:
@@ -103,11 +103,6 @@ Athropos
             
 * Musik, tanz, Verbeugen *
 * Ende *
-            
-  Pech:
-            Ich glaub ich nenne ihn Steffi
-            * gehen ab *
-            
             
             
             
