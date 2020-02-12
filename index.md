@@ -1,4 +1,8 @@
 # Ankündigung
+
+Unten findet ihr die neue Szene. Bitte lesen und kommentieren! 
+Außerdem sind die Audiodateien der einzelnen aufgenommenen Stimmen für I will follow him da drunter zu finden. Nutzt die gerne zum lernen ;)
+
 Wie ihr merkt sind das alles Sonntage. Wir werden die Hauptproben also zwei Mal Sonntag im Monat haben, und für größere Rollen und Gesangssolis können in der Woche extra Termine gemacht werden. Oder wenn auch generell jemand an etwas vermehrt arbeiten möchte.
 
 # Allgemeine Informationen
@@ -141,6 +145,16 @@ Erste Szene geschrieben
 [Szene 2](./Szene2.md)  
 [Szene 3](./Szene3.md)
 [Szene 4](./Szene4.md)
+
+# I will follow him Stimmen
+
+[Unisono aus Teil 2](./video/Unisono2.aac)
+[Hauptstimmen Teil 1](./video/HauptStimme1.aac)
+[Hauptstimmen Teil 2](./video/HauptStimme2.aac)
+[Hohestimmen Teil 1](./video/HoheStimme1.aac)
+[Hohestimmen Teil 2](./video/HoheStimme2.aac)
+[Tiefestimmen Teil 1](./video/TiefeStimme1.aac)
+[Tiefestimmen Teil 2](./video/TiefeStimme2.aac)
 
 
 # Termine
