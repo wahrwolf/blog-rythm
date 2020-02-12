@@ -148,13 +148,13 @@ Erste Szene geschrieben
 
 # I will follow him Stimmen
 
-[Unisono aus Teil 2](./video/Unisono2.aac)  
-[Hauptstimmen Teil 1](./video/HauptStimme1.aac)  
-[Hauptstimmen Teil 2](./video/HauptStimme2.aac)  
-[Hohestimmen Teil 1](./video/HoheStimme1.aac)  
-[Hohestimmen Teil 2](./video/HoheStimme2.aac)  
-[Tiefestimmen Teil 1](./video/TiefeStimme1.aac)  
-[Tiefestimmen Teil 2](./video/TiefeStimme2.aac)  
+[Unisono aus Teil 2](./videos/Unisono2.aac)  
+[Hauptstimmen Teil 1](./videos/HauptStimme1.aac)  
+[Hauptstimmen Teil 2](./videos/HauptStimme2.aac)  
+[Hohestimmen Teil 1](./videos/HoheStimme1.aac)  
+[Hohestimmen Teil 2](./videos/HoheStimme2.aac)  
+[Tiefestimmen Teil 1](./videos/TiefeStimme1.aac)  
+[Tiefestimmen Teil 2](./videos/TiefeStimme2.aac)  
 
 
 # Termine
