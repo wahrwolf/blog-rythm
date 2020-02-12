@@ -3,8 +3,8 @@
 ## Jedes Wort ist wahr!
 ### Story
 Umdichtung auf Basis von der Mythologie, dass Zeus Hades und Poseidon 
-Die Titanen besiegt haben und die Welt danach unter sich 
-Aufgeteilt haben. Dabei hat Hades das Los gezogen die Unterwelt zu erhalten,
+Die Titanen besiegt haben und die Welt danach unter sich aufgeteilt haben.
+Dabei hat Hades das Los gezogen die Unterwelt zu erhalten,
 Worüber er nicht glücklich ist.
 
 Ich hab versucht den meisten Text einfach zu übernehmen
