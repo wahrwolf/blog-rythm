@@ -1,24 +1,24 @@
-# Ankündigungen!
-
-Am 5.1.20 müssen alle, die interesse an einer der folgenden Rollen haben, anwesend sein. Wir werden die Rollen verteilen.
-
-### Rollen
-  
-- Hades (kein/kaum Tanz und Gesang)
-- Pech (viel Comedy)
-- Schwefel (viel Comedy)
-- 3x Moiren (Viel Gesang, machen zusätzlich Nonnen)
-- Crowley (kein/kaum Tanz und Gesang)
-
-Wer diese Rollen übernimmt, muss an seinem Charakter arbeiten, wie z.B. die Gang- und Sprechart. Außerdem muss man entweder den Film (Herkules Charaktere) oder die Serie (Crowley) passend für die Rolle sehen.   
-Man kann sich auch für mehrere Rollen vorbereiten.
-
+# Ankündigung
 Wie ihr merkt sind das alles Sonntage. Wir werden die Hauptproben also zwei Mal Sonntag im Monat haben, und für größere Rollen und Gesangssolis können in der Woche extra Termine gemacht werden. Oder wenn auch generell jemand an etwas vermehrt arbeiten möchte.
 
 # Allgemeine Informationen
 <details>
   <summary>Klick für Infos!</summary>
   
+### Titel des Stückes:
+
+Gute Zeichen, schlechte Zeichen
+
+### Rollenverteilung:
+
+- Hades - Patty
+- Pech - Vincent
+- Schwefel - Lila
+- Klotho - Joana
+- Lachesis - Steffi
+- Athropos - Jaqui (2. Yugi)
+- Crowley - Saskia
+
 ### Probeort: 
   Wu Dao Kung-Fu Schule Hamburg 
   Horner Weg 282 
