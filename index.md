@@ -1,5 +1,16 @@
 # Ankündigung
 
+### Nächste Deadline: 
+
+Ende März - Kostüme  
+
+
+### ( Wahrscheinlich) Auftritte:
+
+Anime Marathon Braunschweig 9./10. Mai
+
+
+
 Unten findet ihr die neue Szene. Bitte lesen und kommentieren! 
 Außerdem sind die Audiodateien der einzelnen aufgenommenen Stimmen für I will follow him da drunter zu finden. Nutzt die gerne zum lernen ;)
 
@@ -39,13 +50,12 @@ Songs findet ihr [hier](./songs.md)
 2€ pro Probe
 
 ### Bereichsverteilung:
-Vincent = Organisation, Raum, Termine 
-Joana = Kostüme, Requisiten 
-Jacky = Choreo 
+Vincent = Organisation, Raum, Termine, Gruppenkasse  
+Joana = Kostüme, Requisiten  
+Jacky = Choreo  
 Steffi/Kio = Gesang, Schauspiel, Story 
  
 ### Aufgaben: 
-Green = Gruppenkasse 
 Melis und Celes = Social Media 
 
 ### Inactive Members: 
