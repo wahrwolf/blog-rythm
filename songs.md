@@ -1,4 +1,21 @@
 # Songs
+## zum Anhören
+### Hauptstimme 1
+![Hauptstimme 1](./videos/Hauptstimme1.ogg)
+### Hauptstimme 2
+![Hauptstimme 2](./videos/HauptStimme2.ogg)
+### Hohe Stimme 1
+![Hohe Stimme 1](./videos/HoheStimme1.ogg)
+### Hohe Stimme 2
+![Hohe Stimme 2](./videos/HoheStimme2.ogg)
+### Tiefe Stimme 1
+![Tiefe Stimme 1](./videos/TiefeStimme1.ogg)
+### Tiefe Stimme 2
+![Tiefe Stimme 2](./videos/TiefeStimme2.ogg)
+### Unisono 2
+![Unisono 2](./videos/Unisono2.ogg)
+
+
 
 ## Jedes Wort ist wahr!
 ### Story
